@@ -1,0 +1,13 @@
+h3 {
+   color: brown;
+}
+
+img {
+   width: 400px;
+   height: 400px;
+   object-fit: cover;
+}
+
+.photos {
+   text-align: center;
+}
